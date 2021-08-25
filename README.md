@@ -12,10 +12,6 @@ Bairro: Centro	Cidade: Águas Mornas
 Contato: (48) 92000-7495 (48) 99846-0975
 E-mail: josepks1903@gmail.com
 
-OBJETIVO
-
-Estou disponibilizando meu currículo para ser avaliado para o cargo de estagiário na área de TI. Com o objetivo de obter conhecimento e experiência profissional. 
-
 FORMAÇÃO
 
 ●	Cursando Ensino Médio Integrado - Técnico em Desenvolvimento de Sistemas - término em 10/12/2021 - Serviço Nacional de Aprendizagem Industrial (SENAI) e Serviço Social da Indústria (SESI) - São José/SC
