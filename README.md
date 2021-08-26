@@ -7,9 +7,7 @@
 # PortfólioTécnico-3B
 JOSÉ PEDRO KUHNEN SENS
 
-Rua Nossa Senhora de Fátima
-Bairro: Centro	Cidade: Águas Mornas
-Contato: (48) 92000-7495 (48) 99846-0975
+Contato: (48) 92000-7495
 E-mail: josepks1903@gmail.com
 
 FORMAÇÃO
