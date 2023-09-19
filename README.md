@@ -7,7 +7,6 @@
 # PortfólioTécnico-3B
 JOSÉ PEDRO KUHNEN SENS
 
-Contato: (48) 92000-7495
 E-mail: josepks1903@gmail.com
 
 FORMAÇÃO
